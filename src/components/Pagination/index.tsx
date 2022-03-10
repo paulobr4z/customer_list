@@ -39,8 +39,8 @@ export function Pagination({
         <FiChevronLeft />
       </span>
       {
-        pages.map((page)  => (
-          <span 
+        pages.map((page, index)  => (
+          <span key={index}
             className={page === pageNumber ? 'selected' : ''}
             onClick={() => onChangePage(page)}
           >
