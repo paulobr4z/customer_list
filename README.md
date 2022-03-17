@@ -2,6 +2,8 @@
 
 O projeto tem como objetivo realizar um listagem de clientes com paginação, os dados foram adquiridos da api https://randomuser.me/, a mesma retorna uma lista de clientes aleatórios.
 
+link: https://customerlistproject.netlify.app/
+
 <h2>Tecnologias</h2>
 
 Tecnologias utilizadas no desenvolvimento do projeto:
